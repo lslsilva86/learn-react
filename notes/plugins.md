@@ -1,0 +1,6 @@
+- 🔹 React Query: effortless data fetching and caching
+- 🔹 Yup & Formik: the smoothest form validation and management
+- 🔹 React Hot Toast: simple, flexible and fast toast notifications
+- 🔹 Styled Components: CSS-in-JS magic ✨
+- 🔹 Recharts: powerful, easy-to-use charting
+- 🔹 React To Print: for Strong Tabular Reports and Cards
