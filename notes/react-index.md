@@ -1,5 +1,19 @@
 # What React Can Do (React 19)
 
+## 0.0 JavaScript ES6+ Prerequisites
+- 0.1 `let` & `const`
+- 0.2 Arrow Functions
+- 0.3 Destructuring (Array & Object)
+- 0.4 Spread & Rest Syntax
+- 0.5 Template Literals
+- 0.6 ES Modules (`import` / `export`)
+- 0.7 Array Methods (`map`, `filter`, `reduce`, `find`)
+- 0.8 Promises & Async/Await
+- 0.9 Optional Chaining (`?.`)
+- 0.10 Nullish Coalescing (`??`)
+- 0.11 Short-Circuit Evaluation (`&&`, `||`)
+- 0.12 Ternary Operator
+
 ## 1.0 Core UI Building
 - 1.1 JSX Syntax
 - 1.2 Functional Components
@@ -141,6 +155,19 @@
 - 13.9 Jest
 - 13.10 Storybook
 - 13.11 Vite & Create React App
+
+## 14.0 Routing
+- 14.1 React Router Basics
+- 14.2 `BrowserRouter` & `HashRouter`
+- 14.3 `Route` & `Routes`
+- 14.4 `Link` & `NavLink`
+- 14.5 URL Parameters (`useParams`)
+- 14.6 Query Strings (`useSearchParams`)
+- 14.7 Programmatic Navigation (`useNavigate`)
+- 14.8 Nested Routes
+- 14.9 Protected / Private Routes
+- 14.10 Layouts with Shared UI
+- 14.11 Lazy Loading Routes (`React.lazy` + `Suspense`)
 
 ---
 
